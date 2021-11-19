@@ -1,0 +1,11 @@
+{
+  "name": "BSCCrowdsale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "2.5.0",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "truffle-flattener": "^1.5.0"
+  }
+}
